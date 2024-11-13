@@ -17,7 +17,7 @@ export default function Home() {
   const boxes = [
     { key: 'about', title: 'About', href: '#',
       text: 'Learn more about what DanceSport.live is, our values, mission and goals.' },
-    { key: 'projects', title: 'Projects', href: 'https://github.com/dancesport-live',
+    { key: 'projects', title: 'Projects', href: 'https://github.com/orgs/dancesport-live/repositories',
       text: 'Find out what we are doing and how you can benefit from or contribute to our work.' },
     { key: 'team', title: 'Team', href: '#',
       text: 'Get to know the project team and advisory board members.' }
